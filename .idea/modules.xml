@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/webrtc-session.iml" filepath="$PROJECT_DIR$/.idea/webrtc-session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/video-chat-app.iml" filepath="$PROJECT_DIR$/.idea/video-chat-app.iml" />
     </modules>
   </component>
 </project>
